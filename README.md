@@ -17,4 +17,4 @@ After experiencing the highs and lows of the markets, I’m now shifting from be
 ---
 *Living on-chain, learning in public, and vibing through volatility.*
 
-![Tum4y's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tum4y&theme=github-compact)
+
